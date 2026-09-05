@@ -26,11 +26,11 @@ High-level KPIs tracking total revenue, active subscriptions, and customer acqui
 
 ### Revenue & Billing
 Financial tracking comparing amounts billed versus amounts paid, alongside Average Revenue Per User (ARPU) trends.
-![Revenue & Billing](screenshots/Revenue_Billing.png)
+![Revenue & Billing](screenshots/Revenue_&_Billing.png)
 
 ### Subscriptions & Plans
 Breakdowns of prepaid vs. postpaid accounts and overall plan popularity.
-![Subscriptions & Plans](screenshots/Subscriptions_Plans.png)
+![Subscriptions & Plans](screenshots/Subscriptions_&_Plans.png)
 
 ### Usage Analytics
 Network consumption metrics detailing call durations by type and daily data usage trends.
