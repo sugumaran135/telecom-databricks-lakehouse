@@ -44,7 +44,11 @@ Support ticket volumes categorized by resolution status and tracking week-over-w
 ![Customer Support](screenshots/Customer_Support.png)
 
 Team Members
+
 Sugumaran S
+
 Sriranganathan S
+
 Yogesh C
+
 Srinivasa Rajan M
