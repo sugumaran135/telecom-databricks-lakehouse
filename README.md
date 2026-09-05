@@ -43,10 +43,12 @@ Support ticket volumes categorized by resolution status and tracking week-over-w
 
 Team Members
 
-Sugumaran S
+Srinivasa Rajan M
 
 Sriranganathan S
 
+Sugumaran S
+
 Yogesh C
 
-Srinivasa Rajan M
+
