@@ -4,8 +4,6 @@ An end-to-end data engineering and analytics pipeline built in Databricks. This 
 
 ##  Architecture & Data Flow
 
-The project leverages PySpark and Delta Lake, organized within a Unity Catalog (`telecom`). 
-
 * **Bronze Layer (`telecom.default`):** Raw CSV data (demographics, billing, network infrastructure, support logs) ingested natively into Delta tables.
 * **Silver Layer (`telecom.silver`):** Cleansed and standardized data. Applied schema enforcement, deduplication, timezone standardization, and data type casting.
 * **Gold Layer (`telecom.gold`):** Final Star/Constellation schema. The data is modeled into business-ready Facts (e.g., `fact_revenue`, `fact_call_usage`, `fact_support_tickets`) and Dimensions (e.g., `dim_customer`, `dim_plan`, `dim_device`).
