@@ -11,10 +11,9 @@ The project leverages PySpark and Delta Lake, organized within a Unity Catalog (
 * **Gold Layer (`telecom.gold`):** Final Star/Constellation schema. The data is modeled into business-ready Facts (e.g., `fact_revenue`, `fact_call_usage`, `fact_support_tickets`) and Dimensions (e.g., `dim_customer`, `dim_plan`, `dim_device`).
 
 ##  Tech Stack
-* **Compute:** Databricks Community Edition
+* **Compute:** Databricks Free Edition
 * **Language:** PySpark / SQL
-* **Storage:** Delta Lake / Unity Catalog Volumes
-* **BI / Visualization:** Databricks Dashboards / Databricks Genie
+* **BI / Visualization:** Databricks Dashboards 
 
 ##  Dashboards
 
@@ -43,3 +42,9 @@ Demographic breakdowns and customer acquisition metrics across physical store lo
 ### Customer Support
 Support ticket volumes categorized by resolution status and tracking week-over-week ticket generation.
 ![Customer Support](screenshots/Customer_Support.png)
+
+Team Members
+Sugumaran S
+Sriranganathan S
+Yogesh C
+Srinivasa Rajan M
